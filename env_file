@@ -1,0 +1,2 @@
+JWT_SECRET='twodogsandacat4ever'
+LOG_LEVEL=DEBUG
